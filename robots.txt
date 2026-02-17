@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yorbalindaplumbingco.com/sitemap.xml
